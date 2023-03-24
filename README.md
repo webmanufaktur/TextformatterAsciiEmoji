@@ -15,9 +15,9 @@ Welcome to TextformatterAsciiEmoji! This module is a fun, proof-of-concept proje
 
 1. Download or clone this repository into your `/site/modules/` directory.
 2. Go to the ProcessWire admin panel and navigate to Modules > Refresh.
-3. Install the Emoji Textformatter module.
-4. Go to Modules > Configure > Emoji Textformatter to configure the emoji mappings.
-5. Go to the field settings for the text field you want to apply this Textformatter (e.g., `body` or `summary` field) and add the Emoji Textformatter to the Inputfield Textformatters list.
+3. Install the TextformatterAsciiEmoji module.
+4. Go to Modules > Configure > TextformatterAsciiEmoji to configure the emoji mappings.
+5. Go to the field settings for the text field you want to apply this Textformatter (e.g., `body` or `summary` field) and add the TextformatterAsciiEmoji to the Inputfield Textformatters list.
 6. Save your changes.
 
 Now, enjoy your text fields filled with vibrant emojis! 😃
