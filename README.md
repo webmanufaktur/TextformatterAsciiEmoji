@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Welcome to TextformatterEmoji! This module is a fun, proof-of-concept project built mainly by ChatGPT for the amazing ProcessWire CMS/CMF. It seamlessly replaces isolated ASCII emojis with their colorful Unicode emoji counterparts to make your text content more lively and engaging! 🌈
+Welcome to TextformatterAsciiEmoji! This module is a fun, proof-of-concept project built mainly by ChatGPT for the amazing ProcessWire CMS/CMF. It seamlessly replaces isolated ASCII emojis with their colorful Unicode emoji counterparts to make your text content more lively and engaging! 🌈
 
 ## Features 🌟
 
@@ -36,7 +36,7 @@ We welcome any contributions, suggestions, or bug reports! Feel free to open an 
 
 ## Questions? 🤔
 
-If you have any questions or need help, feel free to open an issue on the GitHub repository. Let's make the TextformatterEmoji module even better together!
+If you have any questions or need help, feel free to open an issue on the GitHub repository. Let's make the TextformatterAsciiEmoji module even better together!
 
 Happy emoji formatting! 🥳
 
