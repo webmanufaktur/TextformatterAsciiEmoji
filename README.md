@@ -42,6 +42,7 @@ Happy emoji formatting! 🥳
 
 ## Popular Emoji Mappings
 
+```txt
 :) => 😊
 :-) => 😊
 :D => 😄
@@ -86,3 +87,4 @@ O:-) => 😇
 :'-O => 😲
 :-X => 🤐
 :X => 🤐
+```
